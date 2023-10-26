@@ -10,4 +10,6 @@
 
 ###### This is an H6 header
 
-###### create different six headers
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+###### create different six headers, add image
